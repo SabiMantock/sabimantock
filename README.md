@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Sabi Mantock's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabimantock&show_icons=true&theme=dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabimantock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SabiMantock/sabimantock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
