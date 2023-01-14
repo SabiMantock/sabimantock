@@ -9,6 +9,16 @@
 ![Sabi Mantock's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabimantock&show_icons=true&theme=dark)
 
 ### Languages and Tools:
+<span>
+ <p align="center">
+ <img alt="language" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center">
+ <img alt="language" src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center">
+ <img alt="language" src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center">
+ <img alt="framework" src= "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center">
+  </p>
+</span>
+
+### Top Languages:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabimantock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
