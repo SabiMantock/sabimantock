@@ -1,5 +1,5 @@
 ### Hi there, I am Sabi Mantock 👋
-<em>I am a software developer whose goal is to help create softwares and apps to simplify the everyday life </em>
+<em>I am a software engineer whose goal is to help create software and apps to simplify everyday life </em>
 
 
 ### Profile views:
